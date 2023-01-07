@@ -21,9 +21,12 @@
 }
 
 .app__laurels_awards-card_content {
+    
     display: flex;
     flex-direction: column;
-    margin-left: 1rem;
+    margin-right: 0rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 @media screen and (min-width: 1900px) {

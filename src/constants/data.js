@@ -59,7 +59,7 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Chef of the year',
+    title: 'Best Chef',
     
   },
   {
